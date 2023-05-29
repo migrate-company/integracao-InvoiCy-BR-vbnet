@@ -1,0 +1,6 @@
+ExemploIntegracaoVB/bin
+ExemploIntegracaoVB/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
