@@ -1,2 +1,1 @@
-# integracao-invoicy-canarinho-vbnet
-Exemplo de código-fonte para integração com InvoiCy Canarinho
+Exemplo de código-fonte em VB.NET para integração com InvoiCy Brasil
